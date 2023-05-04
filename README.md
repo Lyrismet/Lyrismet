@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, Vue.js, TypeScript**
 
-- ⚡ Fun fact: **I thought programming was complicated. But the whole point was that I thought it was because I was afraid of complexity!**
+- ⚡ Fun fact: **I used to think programming was hard. But it turned out I was just scared of the complexity!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
