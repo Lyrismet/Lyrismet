@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stacy</h1>
 <h3 align="center">A passionate frontend developer. I am very motivated to gain knowledge and grow up in my field🍀</h3>
 
-- 🔭 I’m currently working on [Soft Spot](https://github.com/Lyrismet/soft-spot-multitool)
+- 🔭 I’m currently working on [Shoppers'Hub Admin Dashboard](https://github.com/Lyrismet/admin-dashboard-multicomponents)
 
 - 🌱 I’m currently learning **React.js, Vue.js, TypeScript**
 
