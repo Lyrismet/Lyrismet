@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Shoppers'Hub Admin Dashboard](https://github.com/Lyrismet/admin-dashboard-multicomponents)
 
-- 🌱 I’m currently learning **React.js, Next.js, TypeScript**
+- 🌱 I’m currently improving my skills in **React.js, Next.js, TypeScript**
 
-- ⚡ Fun fact: **I used to think programming was hard. But it turned out I was just scared of the complexity!**
+- ⚡ Fact about me: **I like frontend development the way I can turn lines of code into something beautiful🥰**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
