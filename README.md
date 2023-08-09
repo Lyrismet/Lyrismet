@@ -3,7 +3,7 @@
 
 <h2 align="center">
  
- Check my webportfolio [here](https://lyrismet-portfolio.vercel.app/?vercelToolbarCode=aRz7ftlf1fp32la)
+ Check my webportfolio [here](https://web-portfolio-lyrismet.vercel.app/)
  
 </h2>
 
