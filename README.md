@@ -7,7 +7,7 @@
  
 </h2>
 
-- 🔭 I’m currently working on [Shoppers'Hub Admin Dashboard](https://github.com/Lyrismet/admin-dashboard-multicomponents)
+- 🔭 I’m currently working on [Let's Talk Messenger](https://github.com/Lyrismet/lets-talk-messenger)
 
 - 🌱 I’m currently improving my skills in **React.js, Next.js, TypeScript**
 
