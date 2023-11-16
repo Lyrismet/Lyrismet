@@ -7,9 +7,9 @@
  
 </h2>
 
-- 🔭 I’m currently working on [Let's Talk Messenger](https://github.com/Lyrismet/lets-talk-messenger)
+- 🔭 I’m currently working on [NDA Project]
 
-- 🌱 I’m currently improving my skills in **React.js, Next.js, TypeScript**
+- 🌱 I’m currently improving my skills in **Svelte**
 
 - ⚡ Fact about me: **I like frontend development the way I can turn lines of code into something beautiful🥰**
 
