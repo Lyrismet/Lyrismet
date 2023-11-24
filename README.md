@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stacy</h1>
-<h3 align="center">A passionate frontend developer. I am very motivated to gain knowledge and grow up in my field🍀</h3>
+<h3 align="center">A passionate frontend developer. I love exploring different approaches to work.🍀</h3>
 
 <h2 align="center">
  
