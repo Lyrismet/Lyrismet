@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [NDA Project]
 
-- 🌱 I’m currently improving my skills in **Svelte**
+- 🌱 I’m currently improving my skills in **React**
 
 - ⚡ Fact about me: **I like frontend development the way I can turn lines of code into something beautiful🥰**
 
