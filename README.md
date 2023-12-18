@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently improving my skills in **React**
 
-- ⚡ Fact about me: **I like frontend development the way I can turn lines of code into something beautiful🥰**
+- ⚡ Fact about me: **I like frontend development the way I can turn lines of code into an app that lots of people will use. That's so exciting!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
