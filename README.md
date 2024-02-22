@@ -1,17 +1,25 @@
-<h1 align="center">Hi 👋, I'm Stacy</h1>
-<h3 align="center">A passionate frontend developer. I love exploring different approaches to work.🍀</h3>
-
-<h2 align="center">
+<h1 align="center">Hi, I'm Stacy</h1>
+<h3>A fiery frontend developer. I love exploring different approaches to work.🍀</h3>
+<p>My values:
+- respectful communication
+- constructive dialog
+- friendliness
+- self-development
+- openness to new things
+- integrity
+- responsibility</p>
+<h2 align="left">
  
  Check my webportfolio [here](https://web-portfolio-lyrismet.vercel.app/)
  
 </h2>
 
-- 🔭 I’m currently working on [NDA Project]
 
-- 🌱 I’m currently improving my skills in **React**
+---
 
-- ⚡ Fact about me: **I like frontend development the way I can turn lines of code into an app that lots of people will use. That's so exciting!**
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lyrismet&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
