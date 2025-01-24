@@ -1,23 +1,27 @@
-<h1 align="center">Hi, I'm Stacy</h1>
-<h3>A fiery frontend developer. I love exploring different approaches to work.🍀</h3>
+<h1 align="center">Hi, I'm Anastasia</h1>
+<h3>Cross-platform mobile developer. I love exploring different approaches to work.🍀</h3>
 <p>My values:
+ 
 - respectful communication
+ 
 - constructive dialog
+  
 - friendliness
+  
 - self-development
+  
 - openness to new things
+  
 - integrity
+  
 - responsibility</p>
 <h2 align="left">
- 
- Check my webportfolio [here](https://web-portfolio-lyrismet.vercel.app/)
- 
+ I do internal projects in React Native and Flutter. 
 </h2>
-
-
+ 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lyrismet&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+I have previously worked in web development and design and have an early portfolio which you can view [here](https://web-portfolio-lyrismet.vercel.app/)
 
 ---
 
@@ -33,7 +37,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
+ <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="40" height="40"/> </a>
+ <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="react" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
